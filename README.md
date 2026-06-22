@@ -51,13 +51,4 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan Backend
 * Understand System Design
 * Become Job Ready Backend Engineer
 
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add Your LinkedIn Here
-
----
-
 > "Clean code, secure APIs, and maintainable systems."
