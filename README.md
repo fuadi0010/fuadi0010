@@ -43,39 +43,6 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan Backend
 
 ---
 
-## 📌 Current Projects
-
-### 🏥 Clinic Management System
-
-Microservices-based clinic management system built using:
-
-* Spring Boot
-* Angular
-* JWT Authentication
-* MySQL/PostgreSQL
-* REST API
-
-### 📅 Doctor Appointment Booking System
-
-Online doctor reservation platform inspired by Alodokter.
-
-Features:
-
-* Appointment Scheduling
-* Patient Management
-* Medical Records
-* Authentication & Authorization
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
----
-
 ## 🎯 2026 Goals
 
 * Build Production Ready REST APIs
